@@ -1,0 +1,13 @@
+﻿<Window x:Class="RomeCity.test"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RomeCity"
+        mc:Ignorable="d"
+        Title="test" Height="300" Width="300">
+    <Grid>
+        <Label Content="Hallo Leute" FontSize="30" HorizontalAlignment="Left" Margin="40,92,0,0" VerticalAlignment="Top" Height="51" Width="181"/>
+
+    </Grid>
+</Window>

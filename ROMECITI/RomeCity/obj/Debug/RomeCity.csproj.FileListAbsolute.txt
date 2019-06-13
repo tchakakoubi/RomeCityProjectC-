@@ -1,0 +1,342 @@
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\bin\Debug\RomeCity.exe.config
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\bin\Debug\RomeCity.exe
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\bin\Debug\RomeCity.pdb
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\bin\Debug\MaterialDesignColors.dll
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity.csprojAssemblyReference.cache
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\MainWindow.g.cs
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\App.g.cs
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity_MarkupCompile.cache
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity_MarkupCompile.lref
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\MainWindow.baml
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity.g.resources
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity.Properties.Resources.resources
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity.csproj.GenerateResource.cache
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity.csproj.CoreCompileInputs.cache
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity.csproj.CopyComplete
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity.exe
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity.pdb
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\App.baml
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\bin\Debug\RomeCity.exe.config
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\bin\Debug\RomeCity.exe
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\bin\Debug\RomeCity.pdb
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\bin\Debug\MaterialDesignColors.dll
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\MainWindow.g.cs
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\App.g.cs
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\RomeCity_MarkupCompile.cache
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\RomeCity_MarkupCompile.lref
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\App.baml
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\MainWindow.baml
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\RomeCity.g.resources
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\RomeCity.Properties.Resources.resources
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\RomeCity.csproj.GenerateResource.Cache
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\RomeCity.csproj.CoreCompileInputs.cache
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\RomeCity.exe
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\RomeCity.pdb
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\RomeCity.csprojResolveAssemblyReference.cache
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\test.g.cs
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\test.baml
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\PageTest.g.cs
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\PageTest.baml
+D:\Galatasaray\RomeCity\bin\Debug\RomeCity.exe.config
+D:\Galatasaray\RomeCity\bin\Debug\RomeCity.exe
+D:\Galatasaray\RomeCity\bin\Debug\RomeCity.pdb
+D:\Galatasaray\RomeCity\bin\Debug\MaterialDesignColors.dll
+D:\Galatasaray\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Galatasaray\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Galatasaray\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Galatasaray\RomeCity\obj\Debug\RomeCity.csprojResolveAssemblyReference.cache
+D:\Galatasaray\RomeCity\obj\Debug\MainWindow.g.cs
+D:\Galatasaray\RomeCity\obj\Debug\PageTest.g.cs
+D:\Galatasaray\RomeCity\obj\Debug\test.g.cs
+D:\Galatasaray\RomeCity\obj\Debug\App.g.cs
+D:\Galatasaray\RomeCity\obj\Debug\RomeCity_MarkupCompile.cache
+D:\Galatasaray\RomeCity\obj\Debug\RomeCity_MarkupCompile.lref
+D:\Galatasaray\RomeCity\obj\Debug\App.baml
+D:\Galatasaray\RomeCity\obj\Debug\MainWindow.baml
+D:\Galatasaray\RomeCity\obj\Debug\PageTest.baml
+D:\Galatasaray\RomeCity\obj\Debug\test.baml
+D:\Galatasaray\RomeCity\obj\Debug\RomeCity.g.resources
+D:\Galatasaray\RomeCity\obj\Debug\RomeCity.Properties.Resources.resources
+D:\Galatasaray\RomeCity\obj\Debug\RomeCity.csproj.GenerateResource.Cache
+D:\Galatasaray\RomeCity\obj\Debug\RomeCity.csproj.CoreCompileInputs.cache
+D:\Galatasaray\RomeCity\obj\Debug\RomeCity.exe
+D:\Galatasaray\RomeCity\obj\Debug\RomeCity.pdb
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\bin\Debug\RomeCity.exe.config
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\bin\Debug\RomeCity.exe
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\bin\Debug\RomeCity.pdb
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\bin\Debug\MaterialDesignColors.dll
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\MainWindow.g.cs
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\PageTest.g.cs
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\test.g.cs
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\App.g.cs
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.cache
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.lref
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\App.baml
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\MainWindow.baml
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\PageTest.baml
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\test.baml
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity.g.resources
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity.Properties.Resources.resources
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.GenerateResource.cache
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CoreCompileInputs.cache
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CopyComplete
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity.exe
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity.pdb
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity.csprojAssemblyReference.cache
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\Slidershow.baml
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\Slidershow.g.cs
+D:\c#\ROMECITI\RomeCity\bin\Debug\RomeCity.exe.config
+D:\c#\ROMECITI\RomeCity\bin\Debug\RomeCity.exe
+D:\c#\ROMECITI\RomeCity\bin\Debug\RomeCity.pdb
+D:\c#\ROMECITI\RomeCity\bin\Debug\MaterialDesignColors.dll
+D:\c#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\c#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\c#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity.csprojResolveAssemblyReference.cache
+D:\c#\ROMECITI\RomeCity\obj\Debug\Slidershow.baml
+D:\c#\ROMECITI\RomeCity\obj\Debug\MainWindow.g.cs
+D:\c#\ROMECITI\RomeCity\obj\Debug\PageTest.g.cs
+D:\c#\ROMECITI\RomeCity\obj\Debug\Slidershow.g.cs
+D:\c#\ROMECITI\RomeCity\obj\Debug\test.g.cs
+D:\c#\ROMECITI\RomeCity\obj\Debug\App.g.cs
+D:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.cache
+D:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.lref
+D:\c#\ROMECITI\RomeCity\obj\Debug\App.baml
+D:\c#\ROMECITI\RomeCity\obj\Debug\MainWindow.baml
+D:\c#\ROMECITI\RomeCity\obj\Debug\PageTest.baml
+D:\c#\ROMECITI\RomeCity\obj\Debug\test.baml
+D:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity.g.resources
+D:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity.Properties.Resources.resources
+D:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.GenerateResource.Cache
+D:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CoreCompileInputs.cache
+D:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity.exe
+D:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity.pdb
+G:\c#\ROMECITI\RomeCity\bin\Debug\RomeCity.exe.config
+G:\c#\ROMECITI\RomeCity\bin\Debug\RomeCity.exe
+G:\c#\ROMECITI\RomeCity\bin\Debug\RomeCity.pdb
+G:\c#\ROMECITI\RomeCity\bin\Debug\MaterialDesignColors.dll
+G:\c#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\c#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\c#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity.csprojAssemblyReference.cache
+G:\c#\ROMECITI\RomeCity\obj\Debug\Slidershow.baml
+G:\c#\ROMECITI\RomeCity\obj\Debug\MainWindow.g.cs
+G:\c#\ROMECITI\RomeCity\obj\Debug\PageTest.g.cs
+G:\c#\ROMECITI\RomeCity\obj\Debug\Slidershow.g.cs
+G:\c#\ROMECITI\RomeCity\obj\Debug\test.g.cs
+G:\c#\ROMECITI\RomeCity\obj\Debug\App.g.cs
+G:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.cache
+G:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.lref
+G:\c#\ROMECITI\RomeCity\obj\Debug\App.baml
+G:\c#\ROMECITI\RomeCity\obj\Debug\MainWindow.baml
+G:\c#\ROMECITI\RomeCity\obj\Debug\PageTest.baml
+G:\c#\ROMECITI\RomeCity\obj\Debug\test.baml
+G:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity.g.resources
+G:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity.Properties.Resources.resources
+G:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.GenerateResource.cache
+G:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CoreCompileInputs.cache
+G:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CopyComplete
+G:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity.exe
+G:\c#\ROMECITI\RomeCity\obj\Debug\RomeCity.pdb
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\RomeCity.exe.config
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\RomeCity.exe
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\RomeCity.pdb
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignColors.dll
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csprojAssemblyReference.cache
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\Slidershow.baml
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\MainWindow.g.cs
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\PageTest.g.cs
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\Slidershow.g.cs
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\test.g.cs
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\App.g.cs
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.cache
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.lref
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\App.baml
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\MainWindow.baml
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\PageTest.baml
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\test.baml
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.g.resources
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.Properties.Resources.resources
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.GenerateResource.cache
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CoreCompileInputs.cache
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CopyComplete
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.exe
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.pdb
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\hotels.g.cs
+C:\Users\tchak\Desktop\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\hotels.baml
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\RomeCity.exe.config
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\RomeCity.exe
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\RomeCity.pdb
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignColors.dll
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csprojAssemblyReference.cache
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\Slidershow.baml
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\hotels.g.cs
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\MainWindow.g.cs
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\PageTest.g.cs
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\Slidershow.g.cs
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\test.g.cs
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\App.g.cs
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.cache
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.lref
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\App.baml
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\hotels.baml
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\MainWindow.baml
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\PageTest.baml
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\test.baml
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.g.resources
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.Properties.Resources.resources
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.GenerateResource.cache
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CoreCompileInputs.cache
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CopyComplete
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.exe
+G:\c#\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.pdb
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\RomeCity.exe.config
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\RomeCity.exe
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\RomeCity.pdb
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignColors.dll
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csprojResolveAssemblyReference.cache
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\Slidershow.baml
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\hotels.g.cs
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\MainWindow.g.cs
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\PageTest.g.cs
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\Slidershow.g.cs
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\test.g.cs
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\App.g.cs
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.cache
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.lref
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\App.baml
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\hotels.baml
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\MainWindow.baml
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\PageTest.baml
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\test.baml
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.g.resources
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.Properties.Resources.resources
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.GenerateResource.Cache
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CoreCompileInputs.cache
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.exe
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.pdb
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\ReadMehr.g.cs
+C:\Users\SorelleLove\Desktop\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\ReadMehr.baml
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\RomeCity.exe.config
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\RomeCity.exe
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\RomeCity.pdb
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignColors.dll
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csprojAssemblyReference.cache
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\Slidershow.baml
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\hotels.g.cs
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\MainWindow.g.cs
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\PageTest.g.cs
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\ReadMehr.g.cs
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\Slidershow.g.cs
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\test.g.cs
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\App.g.cs
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.cache
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.lref
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\App.baml
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\hotels.baml
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\MainWindow.baml
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\PageTest.baml
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\ReadMehr.baml
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\test.baml
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.g.resources
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.Properties.Resources.resources
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.GenerateResource.cache
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CoreCompileInputs.cache
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CopyComplete
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.exe
+G:\MyC#Projekt\ROMECITI++\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.pdb
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\RomeCity.exe.config
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\RomeCity.exe
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\RomeCity.pdb
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignColors.dll
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csprojAssemblyReference.cache
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\Slidershow.baml
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\hotels.g.cs
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\MainWindow.g.cs
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\PageTest.g.cs
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\ReadMehr.g.cs
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\Slidershow.g.cs
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\test.g.cs
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\App.g.cs
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.cache
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.lref
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\App.baml
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\hotels.baml
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\MainWindow.baml
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\PageTest.baml
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\ReadMehr.baml
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\test.baml
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.g.resources
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.Properties.Resources.resources
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.GenerateResource.cache
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CoreCompileInputs.cache
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CopyComplete
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.exe
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\RomeCity.pdb
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\Login.g.cs
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\Login.baml
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\Log.g.cs
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\Log.baml
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\Register.g.cs
+C:\Users\tchak\Desktop\c#######\Neuer Ordner (2) C#\ROMECITI\RomeCity\obj\Debug\Register.baml
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\bin\Debug\RomeCity.exe.config
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\bin\Debug\RomeCity.exe
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\bin\Debug\RomeCity.pdb
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\bin\Debug\MaterialDesignColors.dll
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\RomeCity.csprojAssemblyReference.cache
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\Slidershow.baml
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\hotels.g.cs
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\Log.g.cs
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\Login.g.cs
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\MainWindow.g.cs
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\PageTest.g.cs
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\ReadMehr.g.cs
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\Register.g.cs
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\Slidershow.g.cs
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\test.g.cs
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\App.g.cs
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.cache
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.lref
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\App.baml
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\hotels.baml
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\Log.baml
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\Login.baml
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\MainWindow.baml
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\PageTest.baml
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\ReadMehr.baml
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\Register.baml
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\test.baml
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\RomeCity.g.resources
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\RomeCity.Properties.Resources.resources
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.GenerateResource.cache
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CoreCompileInputs.cache
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CopyComplete
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\RomeCity.exe
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\RomeCity.pdb

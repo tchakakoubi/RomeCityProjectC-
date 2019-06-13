@@ -1,0 +1,40 @@
+﻿<Window x:Class="WPFSlideShow.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Loaded="Window_Loaded"
+        
+        Title="Slide Show" Height="391" Width="642">
+    <Window.Resources>
+      
+        <LinearGradientBrush x:Key="firstBrush" StartPoint="0,0" EndPoint="1,1">
+        
+        </LinearGradientBrush>
+        <LinearGradientBrush x:Key="previousBrush" StartPoint="0,0" EndPoint="1,1">
+          
+        </LinearGradientBrush>
+        <LinearGradientBrush x:Key="nextBrush" StartPoint="0,1" EndPoint="1,0">
+          
+        </LinearGradientBrush>
+        <LinearGradientBrush x:Key="lastBrush" StartPoint="0,1" EndPoint="1,0">
+            
+        </LinearGradientBrush>
+        <LinearGradientBrush x:Key="progressBrush" StartPoint="0,1" EndPoint="1,1">
+            <GradientStop Color="Violet" Offset="0.1"/>
+            <GradientStop Color="Indigo" Offset="0.3"/>
+            <GradientStop Color="Blue" Offset="0.4"/>
+            <GradientStop Color="Green" Offset="0.5"/>
+            <GradientStop Color="Yellow" Offset="0.7"/>
+            <GradientStop Color="Orange" Offset="0.8"/>
+            <GradientStop Color="Red" Offset="0.9"/>
+        </LinearGradientBrush>
+    </Window.Resources>
+    <Canvas Width="595" Height="351">
+        <Button Name="btnFirst"  Content="&lt;&lt;" Canvas.Left="117" Canvas.Top="293" Width="60" Height="30" Click="btnFirst_Click" />
+        <Button Name="btnPrevious" Content="&lt;" Canvas.Left="183" Canvas.Top="293" Width="60" Height="30" Click="btnPrevious_Click" />
+        <Button Name="btnNext"  Content="&gt;" Canvas.Left="249" Canvas.Top="293" Width="60" Height="30" Click="btnNext_Click" />
+        <Button Name="btnLast" Content="&gt;&gt;" Canvas.Left="315" Canvas.Top="293" Width="60" Height="30" Click="btnLast_Click" />
+        <ProgressBar Name="progressBar1" Background="{StaticResource progressBrush}" BorderBrush="{StaticResource borderBrush}" Canvas.Left="115" Canvas.Top="329" Height="10" Width="258" Minimum="1" Maximum="21" Value="1" />
+        <CheckBox Name="chkAutoPlay" Canvas.Left="381" Canvas.Top="293" Height="16" Width="117" Click="chkAutoPlay_Click">Play Automatically</CheckBox>
+        <Image Canvas.Left="9" Canvas.Top="11" Height="275" x:Name="myImage" Stretch="Fill" Width="575"/>
+    </Canvas>
+</Window>
