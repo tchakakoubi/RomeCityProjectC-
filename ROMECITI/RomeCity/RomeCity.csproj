@@ -63,6 +63,12 @@
     <Compile Include="hotels.xaml.cs">
       <DependentUpon>hotels.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Hotel_Info2.xaml.cs">
+      <DependentUpon>Hotel_Info2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hotel_Info3.xaml.cs">
+      <DependentUpon>Hotel_Info3.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Log.xaml.cs">
       <DependentUpon>Log.xaml</DependentUpon>
     </Compile>
@@ -85,6 +91,14 @@
       <DependentUpon>test.xaml</DependentUpon>
     </Compile>
     <Page Include="hotels.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hotel_Info2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hotel_Info3.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

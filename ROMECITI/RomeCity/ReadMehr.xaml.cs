@@ -27,11 +27,7 @@ namespace RomeCity
             bildgross.Width = this.Width;
         }
 
-        private void foto2_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
+       
         private void buchen_click(object sender, RoutedEventArgs e)
         {
             miFrame_buchen.Content = new Login();

@@ -28,12 +28,27 @@ namespace RomeCity
 
         private void foto2_Click(object sender, RoutedEventArgs e)
         {
-          
+            //Grid bla1 = bild2;
+            hotelos.Children.Clear();
+            hotelos.ColumnDefinitions.Clear();
+
+            miFrame2.Content = new Hotel_Info2();
+
+            bild1.Width = this.Width -50;
+            bild2.HorizontalAlignment = HorizontalAlignment.Center;
+            hotelos.Children.Add(bild2);
         }
 
         private void foto3_Click(object sender, RoutedEventArgs e)
         {
+            hotelos.Children.Clear();
+            hotelos.ColumnDefinitions.Clear();
 
+            miFrame3.Content = new Hotel_Info3();
+
+            bild1.Width = this.Width - 50;
+            bild3.HorizontalAlignment = HorizontalAlignment.Center;
+            hotelos.Children.Add(bild3);
         }
 
         private void foto4_Click(object sender, RoutedEventArgs e)
@@ -78,7 +93,7 @@ namespace RomeCity
 
             //this.Content = mehr;
             
-           Grid bla1 = bild1;
+            Grid bla1 = bild1;
             hotelos.Children.Clear();
             hotelos.ColumnDefinitions.Clear();
 

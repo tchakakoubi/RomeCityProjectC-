@@ -47,7 +47,7 @@
                     <materialDesign:PackIcon Foreground="Green" Kind="Star"/>
 
                 </StackPanel>
-                <Frame x:Name="miFrame" />
+                <Frame x:Name="miFrame"/>
 
             </Grid>
             
@@ -66,9 +66,12 @@
                     <materialDesign:PackIcon Foreground="Green" Kind="Star"/>
                     <TextBlock  Text="25" Foreground="#FFFBFBFB"/>
                 </StackPanel>
+                <Frame x:Name="miFrame2"/>
+                
             </Grid>
+            
 
-            <Grid Margin="10" Grid.Row="2" Grid.Column="2">
+            <Grid x:Name="bild3" Margin="10" Grid.Row="2" Grid.Column="2">
                 <Grid.Effect>
                     <DropShadowEffect BlurRadius="20" Color="#FFEEEEEE" ShadowDepth="1"/>
                 </Grid.Effect>
@@ -83,6 +86,7 @@
                     <materialDesign:PackIcon Foreground="Green" Kind="Star"/>
                     <TextBlock  Text="25" Foreground="#FFFBFBFB"/>
                 </StackPanel>
+                <Frame x:Name="miFrame3"/>
             </Grid>
             <Grid Margin="10" Grid.Row="3" Grid.Column="0">
                 <Grid.Effect>

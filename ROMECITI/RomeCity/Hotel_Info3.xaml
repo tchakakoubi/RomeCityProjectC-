@@ -1,0 +1,38 @@
+﻿<Page x:Class="RomeCity.Hotel_Info3"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+
+      xmlns:local="clr-namespace:RomeCity"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Hotel_Info3">
+
+    <Grid Background="WhiteSmoke" Visibility="Visible">
+
+        <Image Name="bildgross" HorizontalAlignment="Left" Height="300" VerticalAlignment="Top" Width="300" Source="Bilder1/city3.jpg"/>
+
+        <ItemsControl HorizontalAlignment="Right" Margin="0,40,0,0" VerticalAlignment="Top">
+
+            <TextBlock Text="Entfernung 30km"   HorizontalAlignment="Right" Height="45" VerticalAlignment="Top" Width="300" FontSize="20"/>
+            <TextBlock Text="Entfernung 30km"   HorizontalAlignment="Right" Height="45" VerticalAlignment="Top" Width="300" FontSize="20"/>
+            <TextBlock Text="Entfernung 30km"  HorizontalAlignment="Right" Height="45" VerticalAlignment="Top" Width="300" FontSize="20"/>
+            <TextBlock Text="Entfernung 30km"  HorizontalAlignment="Right" Height="45" VerticalAlignment="Top" Width="300" FontSize="20"/>
+
+            <TextBlock Text="Ab 70Euro"  HorizontalAlignment="Right" Height="45" VerticalAlignment="Top" Width="300" FontSize="20"/>
+        </ItemsControl>
+
+        <WrapPanel   HorizontalAlignment="Right" VerticalAlignment="Top" Width="300">
+            <materialDesign:PackIcon Foreground="Gold" Kind="Star"  Height="25" Width="26"/>
+            <materialDesign:PackIcon Foreground="Gold" Kind="Star"  Height="25" Width="26"/>
+            <materialDesign:PackIcon Foreground="Gold" Kind="Star"  Height="25" Width="26"/>
+            <materialDesign:PackIcon Foreground="Gold" Kind="Star"  Height="25" Width="26"/>
+
+        </WrapPanel>
+        <Button Content="Zurück" HorizontalAlignment="Left" Margin="637,385,0,0" Background="green" VerticalAlignment="Top" Width="75" Click="zurück_click"/>
+        <Button Content="Buchen" HorizontalAlignment="Left" Margin="753,385,0,0" Background="green" VerticalAlignment="Top" Width="81" Click="buchen_click"/>
+        <Frame x:Name="miFrame_buchen" />
+    </Grid>
+</Page>

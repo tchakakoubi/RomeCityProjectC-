@@ -340,3 +340,7 @@ C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.C
 C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CopyComplete
 C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\RomeCity.exe
 C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\RomeCity.pdb
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\Hotel_Info2.g.cs
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\Hotel_Info2.baml
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\Hotel_Info3.g.cs
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\Hotel_Info3.baml
