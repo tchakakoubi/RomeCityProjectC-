@@ -344,3 +344,8 @@ C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\Hotel_Info2.g.cs
 C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\Hotel_Info2.baml
 C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\Hotel_Info3.g.cs
 C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\obj\Debug\Hotel_Info3.baml
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\bin\Debug\GMap.NET.Core.dll
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\bin\Debug\System.Data.SQLite.dll
+C:\Users\tchak\Desktop\Git_Ptojekt\ROMECITI\RomeCity\bin\Debug\Microsoft.Maps.MapControl.WPF.xml

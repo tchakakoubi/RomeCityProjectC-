@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
+using Microsoft.Maps.MapControl.WPF;
 using System.Windows.Threading;
 
 namespace RomeCity
@@ -23,11 +23,23 @@ namespace RomeCity
     public partial class MainWindow : Window
 
     {
+        //Inserer le Apikey pour le map
+        public ApplicationIdCredentialsProvider Provider { get; set; } = new ApplicationIdCredentialsProvider("9J0Zv03MwOiYXQrfrEPO~BDnBUXv8_caoV5dsXIA3Lw~AgIl2pu-05XtU1x5ReR3-eU2yNnywn8mK3I797gljELvI7zfHxah7IR4t5QcAUwA");
+
+
         DispatcherTimer timer;
         int ctr = 0;
         public MainWindow()
         {
+            //Pour activer le map
+            this.DataContext = this;
             InitializeComponent();
+            myMap.Focus();
+            myMap.CredentialsProvider = Provider;
+            //définir le zoom de la carte a 10;
+            myMap.Mode = new AerialMode(true);
+
+
             this.MaxHeight = SystemParameters.MaximizedPrimaryScreenHeight;
             this.MinHeight = SystemParameters.MinimizedGridHeight;
 
@@ -169,6 +181,7 @@ namespace RomeCity
             home.Visibility = Visibility.Hidden;
 
             zimmer.Visibility = Visibility.Visible;
+            places.Visibility = Visibility.Hidden;
         }
 
         private void ListViewItem_Home(object sender, RoutedEventArgs e)
@@ -179,9 +192,10 @@ namespace RomeCity
             home.Visibility = Visibility.Visible;
 
             h2.Visibility = Visibility.Hidden;
-
+            
 
             zimmer.Visibility = Visibility.Hidden;
+            places.Visibility = Visibility.Hidden;
 
         
 
@@ -212,6 +226,57 @@ namespace RomeCity
 
         }
 
-      
+        private void ChangeMapView_Click1(object sender, RoutedEventArgs e)
+        {
+            Location myLoc = new Location(41.835590, 12.554630);
+            myMap.SetView(myLoc, Convert.ToDouble(14), Convert.ToDouble(0));
+            Pushpin mypin = new Pushpin();
+            MapLayer.SetPosition(mypin, myLoc);
+            myMap.Children.Add(mypin);
+
+            System.Windows.Controls.Label label = new System.Windows.Controls.Label();
+            label.Content = "Via Siderno, 37, 00178 Roma RM, Italia";
+            label.Foreground = new SolidColorBrush(Colors.White);
+            label.Background = new SolidColorBrush(Colors.DarkOliveGreen);
+            label.FontFamily = new FontFamily("Berlin Sans FB");
+            label.FontSize = 13;
+            MapLayer.SetPosition(label, myLoc);
+            myMap.Children.Add(label);
+        }
+
+        private void ChangeMapView_Click2(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ChangeMapView_Click3(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ChangeMapView_Click4(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ChangeMapView_Click10(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ListViewItem_Mapper(object sender, RoutedEventArgs e)
+        {
+            hotels h2 = new hotels();
+
+            Main.NavigationService.Navigate(h2);
+            home.Visibility = Visibility.Hidden;
+
+            h2.Visibility = Visibility.Hidden;
+
+
+            zimmer.Visibility = Visibility.Hidden;
+            places.Visibility = Visibility.Visible;
+
+        }
     }
 }

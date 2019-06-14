@@ -4,6 +4,8 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+         xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
+
         Loaded="Window_Loaded"
         Background="{StaticResource windowBrush}"
         xmlns:local="clr-namespace:RomeCity"
@@ -35,6 +37,7 @@
     </Window.Triggers>
 
     <Grid Background="LightGray">
+        
         <Frame x:Name="Main" />
             <Grid Height="100" VerticalAlignment="Top" Background="Purple">
             <Grid Height="50" VerticalAlignment="Top">
@@ -127,7 +130,7 @@
                         </StackPanel>
                     </ListViewItem>
 
-                    <ListViewItem Height="60" Foreground="White">
+                    <ListViewItem  Selected="ListViewItem_Mapper" Height="60" Foreground="White">
                         <StackPanel Orientation="Horizontal">
                             <materialDesign:PackIcon Kind="Map" Width="25" Height="25" Margin="10" VerticalAlignment="Center"/>
                             <TextBlock Text="Mapper" VerticalAlignment="Center" Margin="20 10"  />
@@ -241,7 +244,90 @@
             
         </Grid>
 
-  
+
+        <Grid Name="places"  Background="DarkGray" HorizontalAlignment="Left" Height="366" Margin="0,64,0,-9.333" VerticalAlignment="Top" Width="793" Visibility="Hidden">
+            <Grid>
+                <m:Map x:Name="myMap" Grid.Column="0" Grid.Row="0" Grid.RowSpan="3" Padding="5"
+               Center="49.63278, 8.35916" ZoomLevel="3" AnimationLevel="None" Mode="AerialWithLabels">
+                    <Button x:Name="res1" ToolTipService.ShowDuration="5000" FontFamily="Berlin Sans FB" Background="White" BorderBrush="#a1951d" Foreground="#a1951d"  Content="Hotel Capannelle  " Tag="" Click="ChangeMapView_Click1" Margin="34,240,642.333,0" Height="36" VerticalAlignment="Top" RenderTransformOrigin="0.473,-0.093">
+                        <Button.ToolTip>
+                            <ToolTip>
+                                <StackPanel>
+                                    <TextBlock FontFamily="Berlin Sans FB" Foreground="#003366">Öffnungszeiten:</TextBlock>
+                                    <TextBlock FontFamily="Berlin Sans FB" Foreground="#808000">Montag bis Samstag : 9h - 00h</TextBlock>
+                                    <TextBlock FontFamily="Berlin Sans FB" Foreground="#808000">Sontag und Feiertag : 12h - 21h</TextBlock>
+
+
+                                </StackPanel>
+                            </ToolTip>
+                        </Button.ToolTip>
+
+
+                    </Button>
+
+
+                    <Button  x:Name="res2"  FontFamily="Berlin Sans FB"  Background="White" BorderBrush="#a1951d" Foreground="#a1951d" Content="KOI Asian Food" Tag="" Click="ChangeMapView_Click2" Width="100" Margin="100,167,593.333,0" RenderTransformOrigin="1.75,0.429" Height="37" VerticalAlignment="Top">
+                        <Button.ToolTip>
+                            <ToolTip>
+                                <StackPanel>
+                                    <TextBlock FontFamily="Berlin Sans FB" Foreground="#003366">Öffnungszeiten:</TextBlock>
+                                    <TextBlock FontFamily="Berlin Sans FB" Foreground="#808000">Montag bis Samstag : 12h - 21h</TextBlock>
+                                    <TextBlock FontFamily="Berlin Sans FB" Foreground="#808000">Sontag und Feiertag : 14h - 23h</TextBlock>
+
+
+                                </StackPanel>
+                            </ToolTip>
+                        </Button.ToolTip>
+                    </Button>
+
+                    <Button x:Name="res3"  FontFamily="Berlin Sans FB"  Background="White" BorderBrush="#a1951d" Foreground="#a1951d" Content="Stolpereck Worms" Tag="" Click="ChangeMapView_Click3" Margin="34,91,629.333,235" RenderTransformOrigin="1.75,0.429">
+                        <Button.ToolTip>
+                            <ToolTip>
+                                <StackPanel>
+                                    <TextBlock FontFamily="Berlin Sans FB" Foreground="#003366">Öffnungszeiten:</TextBlock>
+                                    <TextBlock FontFamily="Berlin Sans FB" Foreground="#808000">Montag bis Samstag : 9h - 23h</TextBlock>
+                                    <TextBlock FontFamily="Berlin Sans FB" Foreground="#808000" >Sontag und Feiertag : 14h - 21h</TextBlock>
+
+
+                                </StackPanel>
+                            </ToolTip>
+                        </Button.ToolTip>
+                    </Button>
+
+                    <Button x:Name="res4" FontFamily="Berlin Sans FB" Background="White" BorderBrush="#a1951d" Foreground="#a1951d" Content="Schnitzelhütt Worms" Tag="" Click="ChangeMapView_Click4" Margin="103,29,568.333,300" RenderTransformOrigin="1.75,0.429">
+                        <Button.ToolTip>
+                            <ToolTip>
+                                <StackPanel  >
+                                    <TextBlock FontFamily="Berlin Sans FB" Foreground="#003366">Öffnungszeiten:</TextBlock>
+                                    <TextBlock FontFamily="Berlin Sans FB" Foreground="#808000">Montag bis Samstag : 8h - 00h</TextBlock>
+                                    <TextBlock FontFamily="Berlin Sans FB" Foreground="#808000">Sontag und Feiertag : 12h - 22h</TextBlock>
+                                </StackPanel>
+                            </ToolTip>
+                        </Button.ToolTip>
+                    </Button>
+
+                    <Button x:Name="res5" ToolTipService.ShowDuration="5000" FontFamily="Berlin Sans FB" Background="White" BorderBrush="#a1951d" Foreground="#a1951d"  Content="Die Pfälzer  " Tag="" Click="ChangeMapView_Click10" Margin="193,91,483.333,0" Height="36" VerticalAlignment="Top" RenderTransformOrigin="0.519,1.222">
+                        <Button.ToolTip>
+                            <ToolTip>
+                                <StackPanel>
+                                    <TextBlock FontFamily="Berlin Sans FB" Foreground="#003366">Öffnungszeiten:</TextBlock>
+                                    <TextBlock FontFamily="Berlin Sans FB" Foreground="#808000">Montag bis Samstag : 9h - 00h</TextBlock>
+                                    <TextBlock FontFamily="Berlin Sans FB" Foreground="#808000">Sontag und Feiertag : 12h - 21h</TextBlock>
+
+
+                                </StackPanel>
+                            </ToolTip>
+                        </Button.ToolTip>
+
+
+                    </Button>
+
+                </m:Map>
+            </Grid>
+
+
+        </Grid>
+
 
 
     </Grid>
