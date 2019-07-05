@@ -60,7 +60,7 @@ namespace RomeCity
 
         private int CalcularPorcentag()
         {
-            return 47;          // calcul 
+            return 57;          // calcul 
         }
     }
 }
