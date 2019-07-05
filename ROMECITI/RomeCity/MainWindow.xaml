@@ -36,10 +36,10 @@
         </EventTrigger>
     </Window.Triggers>
 
-    <Grid Background="LightGray">
-        
+    <Grid Background="White">
+
         <Frame x:Name="Main" />
-            <Grid Height="100" VerticalAlignment="Top" Background="Purple">
+        <Grid Height="100" VerticalAlignment="Top" Background="Purple">
             <Grid Height="50" VerticalAlignment="Top">
                 <Grid Name="GridBarratitulo" Grid.ColumnSpan="2" Background="#FF3F0E50" MouseDown="GridBarratitulo_MouseDown" >
                     <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10,0" >
@@ -47,7 +47,7 @@
                             <materialDesign:PackIcon Kind="Minus"/>
                         </Button>
                         <Button  Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" Width="25" Height="25" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Click="ButtonMax_Click2">
-                            <materialDesign:PackIcon Kind="Recycle"/>
+                            <materialDesign:PackIcon Kind="CropSquare"/>
                         </Button>
                         <Button Name ="ButtonFechar" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" Width="25" Height="25" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Click="ButtonFechar_Click1">
                             <materialDesign:PackIcon Kind="Close"/>
@@ -60,7 +60,7 @@
             </Grid>
             <Grid Height="51" VerticalAlignment="Bottom" Margin="60,0,0,-1" Background="Purple">
                 <StackPanel VerticalAlignment="Center" HorizontalAlignment="Right" Orientation="Horizontal">
-                    <TextBlock Text="RomeCity" VerticalAlignment="Center" Padding="50" HorizontalAlignment="Center" FontSize="24" FontFamily="Imprint MT Shadow"/>
+                    <TextBlock Text="RomeCity" VerticalAlignment="Center" Padding="50" HorizontalAlignment="Center" FontSize="24" FontFamily="Imprint MT Shadow" RenderTransformOrigin="0.291,0.531" Height="125" Width="558"/>
                     <materialDesign:PopupBox Margin="10" PlacementMode="BottomAndAlignRightEdges" StaysOpen="False" >
                         <StackPanel Width="150">
                             <Button Content="Anmelden" Click="login_click"/>
@@ -79,7 +79,7 @@
             <StackPanel>
 
                 <Grid Height="100" Background="#FF3F0E50"  >
-                    <TextBlock Text="Dashbord" VerticalAlignment="Bottom" FontFamily="PMingLiU-ExtB" Height="50"  Width="162" Foreground="White" FontSize="25"/>
+                    <!--<TextBlock Text="Dashboard" VerticalAlignment="Bottom" FontFamily="Matura MT Script Capitals"  Height="50"  Width="162" Foreground="White" FontSize="14"/>-->
                     <StackPanel>
                         <Grid Height="50" >
                             <Button x:Name="ButtonOfCloseMenu" Width="60" Height="60" Background="#FF60107B" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Right" Visibility="Collapsed" Click="ButtonOfCloseMenu_Click">
@@ -104,7 +104,7 @@
 
                     <ListViewItem Selected="ListViewItem_Hotel" Height="60" Foreground="White">
                         <StackPanel Orientation="Horizontal">
-                            <materialDesign:PackIcon Kind="Hotel" Width="25" Height="25" Margin="10" VerticalAlignment="Center"/>
+                            <materialDesign:PackIcon Kind="Hotel" Width="25" Height="24" Margin="10" VerticalAlignment="Center"/>
                             <TextBlock Text="Hotels" VerticalAlignment="Center" Margin="20 10" ></TextBlock>
                         </StackPanel>
                     </ListViewItem>
@@ -116,14 +116,14 @@
                         </StackPanel>
                     </ListViewItem>
 
-                    <ListViewItem Height="60" Foreground="White">
+                    <ListViewItem  Height="60" Foreground="White">
                         <StackPanel Orientation="Horizontal">
                             <materialDesign:PackIcon Kind="MoneyUsd" Width="25" Height="25" Margin="10" VerticalAlignment="Center"/>
                             <TextBlock Text="Währung" VerticalAlignment="Center" Margin="20 10"  />
                         </StackPanel>
                     </ListViewItem>
 
-                    <ListViewItem Height="60" Foreground="White">
+                    <ListViewItem Selected="ListViewItem_Aktivität"  Height="60" Foreground="White">
                         <StackPanel Orientation="Horizontal" >
                             <materialDesign:PackIcon Kind="LocalActivity" Width="25" Height="25" Margin="10" VerticalAlignment="Center"/>
                             <TextBlock Text="Aktivitäten" VerticalAlignment="Center" Margin="20 10"  />
@@ -137,12 +137,12 @@
                         </StackPanel>
                     </ListViewItem>
 
-                    <ListViewItem Height="60" Foreground="White">
+                    <!--<ListViewItem Height="60" Foreground="White">
                         <StackPanel Orientation="Horizontal">
                             <materialDesign:PackIcon Kind="Printer" Width="25" Height="25" Margin="10" VerticalAlignment="Center"/>
                             <TextBlock Text="Drücken" VerticalAlignment="Center" Margin="20 10"  />
                         </StackPanel>
-                    </ListViewItem>
+                    </ListViewItem>-->
 
                     <!--<ListViewItem Height="60" Foreground="White">
                         <StackPanel Orientation="Horizontal">
@@ -155,45 +155,47 @@
             </StackPanel>
         </Grid>
 
-        <Grid Name="home" Grid.Column="1" Grid.Row="1"  >
-            <ScrollViewer x:Name="myFrame" Margin="64,112,9,44">
+        <Grid Name="home" Margin="5,8,-5,-8"  >
+            <ScrollViewer  x:Name="myFrame" Margin="55,96,7,12">
                 <Grid>
-                    <Grid.RowDefinitions>
+                    <!--<Grid.RowDefinitions>
                         <RowDefinition Height="200"/>
-                        <RowDefinition Height="*"/>
-                        <RowDefinition Height="*"/>
+                        -->
+                    <!--<RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>-->
+                    <!--
                     </Grid.RowDefinitions>
                     <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="1*"/>
-                        <ColumnDefinition Width="1*"/>
-                        <ColumnDefinition Width="1*"/>
-                    </Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="362*"/>
+                        -->
+                    <!--<ColumnDefinition Width="261*"/>
+                        <ColumnDefinition Width="311*"/>-->
+                    <!--
+                    </Grid.ColumnDefinitions>-->
 
-                    <Rectangle Margin="175,-5,1,79"  RadiusX="10" RadiusY="10" RenderTransformOrigin="0.797,-0.149" Fill="#FF0E4723"/>
-                    <Rectangle Margin="98,-5,78,79"  RadiusX="10" RadiusY="10" RenderTransformOrigin="0.797,-0.149" Fill="#FFFFA700" Grid.Column="2"/>
-                    <Rectangle Margin="118,-5,59,79"  RadiusX="10" RadiusY="10" RenderTransformOrigin="0.797,-0.149" Fill="#FFCC0909" Grid.Column="1"/>
-                    <Grid Margin="25" Height="120" >
-                        <Grid Width="35" Height="50" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="20 0" >
-                            <Grid.RowDefinitions>
-                                <RowDefinition Height="19*"/>
-                                <RowDefinition Height="32*"/>
-                            </Grid.RowDefinitions>
-                            <Canvas>
-                                <Button Name="btnFirst"  Content="&lt;&lt;" Canvas.Left="169" Canvas.Top="384" Width="51" Height="32" Click="btnFirst_Click" RenderTransformOrigin="2.181,4.63" />
-                                <Button Name="btnPrevious" Content="&lt;" Canvas.Left="248" Canvas.Top="386" Width="60" Height="30" Click="btnPrevious_Click" RenderTransformOrigin="1.676,4.554" />
-                                <Button Name="btnNext"  Content="&gt;" Canvas.Left="344" Canvas.Top="383" Width="60" Height="30" Click="btnNext_Click" RenderTransformOrigin="1.421,5.553" />
-                                <Button Name="btnLast" Content="&gt;&gt;" Canvas.Left="431" Canvas.Top="382" Width="60" Height="30" Click="btnLast_Click" RenderTransformOrigin="-0.569,0.019" />
-                                <ProgressBar Name="progressBar1" Canvas.Left="226" Canvas.Top="436" Height="10" Width="258" Minimum="1" Maximum="21" Value="1" />
-                                <CheckBox Name="chkAutoPlay" Canvas.Left="518" Canvas.Top="394" Height="16" Width="116" Click="chkAutoPlay_Click">Play Automatically</CheckBox>
-                                <Image Canvas.Left="147" Canvas.Top="110" Height="256" x:Name="myImage" Stretch="Fill" Width="514"/>
-                            </Canvas>
-                        </Grid>
+                    <!--<Rectangle Margin="170,13,27,127"  RadiusX="10" RadiusY="10" RenderTransformOrigin="0.797,-0.149" Fill="#FF0E4723"/>-->
+                    <!--<Rectangle Margin="45,18,99,132"  RadiusX="10" RadiusY="10" RenderTransformOrigin="0.797,-0.149" Fill="#FFFFA700" Grid.Column="2"/>
+                    <Rectangle Margin="51,17,47,127"  RadiusX="10" RadiusY="10" RenderTransformOrigin="0.797,-0.149" Fill="#FFCC0909" Grid.Column="1"/>-->
+                    <Grid Margin="1,2,7,-340" >
+                        <!--<Grid Height="282" VerticalAlignment="Top" Margin="154,114,218,0" >
+
+                          
+                        </Grid>-->
+                        <Canvas Height="448" VerticalAlignment="Center" Margin="96,86,42,346">
+                            <Button Name="btnFirst"  Content="&lt;&lt;" Canvas.Left="248" Canvas.Top="346" Width="54" Height="32" Click="btnFirst_Click" RenderTransformOrigin="2.181,4.63"  Background="#FF007ACC" />
+                            <Button Name="btnPrevious" Content="&lt;" Canvas.Left="89" Canvas.Top="178" Width="40" Height="32" Click="btnPrevious_Click" RenderTransformOrigin="1.676,4.554" Background="#FF007ACC"  />
+                            <Button Name="btnNext"  Content="&gt;" Canvas.Left="620" Canvas.Top="187" Width="42" Height="30" Click="btnNext_Click" RenderTransformOrigin="1.421,5.553" Background="#FF007ACC" />
+                            <Button Name="btnLast" Content="&gt;&gt;" Canvas.Left="426" Canvas.Top="348" Width="50" Height="28" Click="btnLast_Click" RenderTransformOrigin="-0.569,0.019" Background="#FF007ACC" />
+                            <ProgressBar Name="progressBar1" Canvas.Left="246" Canvas.Top="410" Height="10" Width="258" Minimum="1" Maximum="21" Value="1" Background="LightGray"  />
+                            <CheckBox Name="chkAutoPlay" Foreground="Black" Canvas.Left="551" Canvas.Top="401" Height="20" Width="124" Click="chkAutoPlay_Click">Play Automatically</CheckBox>
+                            <Image Canvas.Left="173" Canvas.Top="77" Height="246" x:Name="myImage" Stretch="Fill" Width="397"/>
+                        </Canvas>
 
                     </Grid>
 
-                    <Label Content="Sehenswürdigkeit" Foreground="White" HorizontalAlignment="Left" Margin="180,59,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.605,-0.154" Height="35" Width="138" FontFamily="Leelawadee" FontSize="16" Grid.ColumnSpan="2"/>
-                    <Label Content="Über die Stadt" Foreground="White" HorizontalAlignment="Left" Margin="121,67,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.605,-0.154" Height="35" Width="138" FontFamily="Leelawadee" FontSize="16" Grid.Column="1"/>
-                    <Label Content="Souvenir" Foreground="White" HorizontalAlignment="Left" Margin="102,67,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.605,-0.154" Height="35" Width="138" FontFamily="Leelawadee" FontSize="16" Grid.Column="2"/>
+                    <Label Content="Sehenswürdigkeiten" Foreground="#FFFF6E00" FontStyle="Normal" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.605,-0.154" Height="49" Width="276" FontSize="20" Margin="244,91,0,0" />
+                    <!--<Label Content="Über die Stadt" Foreground="White" HorizontalAlignment="Left" Margin="63,22,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.605,-0.154" Height="35" Width="138" FontFamily="Imprint MT Shadow" FontSize="20" Grid.Column="1"/>
+                    <Label Content="Souvenir" Foreground="White" HorizontalAlignment="Left" Margin="71,20,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.605,-0.154" Height="34" Width="138" FontFamily="Imprint MT Shadow" FontSize="20" Grid.Column="2"/>-->
                 </Grid>
 
 
@@ -223,7 +225,8 @@
             </Grid>
 
 
-            <!--<ScrollViewer Margin="61,102,0,49">
+
+                <!--<ScrollViewer Margin="61,102,0,49">
                 <Grid>
                     <Rectangle Height="400" Width="600" HorizontalAlignment="Center" VerticalAlignment="Bottom"  Fill="Green"/>
                     <StackPanel HorizontalAlignment="Center" >
@@ -241,9 +244,8 @@
                 </Grid>
 
             </ScrollViewer>-->
-            
-        </Grid>
 
+        </Grid>
 
         <Grid Name="places"  Background="DarkGray" HorizontalAlignment="Left" Height="366" Margin="0,64,0,-9.333" VerticalAlignment="Top" Width="793" Visibility="Hidden">
             <Grid>

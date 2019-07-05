@@ -7,34 +7,38 @@
       xmlns:local="clr-namespace:RomeCity"
 
       mc:Ignorable="d" 
-      d:DesignHeight="600" d:DesignWidth="1200"
+      d:DesignHeight="600" d:DesignWidth="1024"
       Title="ReadMehr">
 
-    <Grid Background="WhiteSmoke" Visibility="Visible">
+    <Grid   Background="White" Visibility="Visible" Margin="0,0,2,2">
 
-        <Image Name="bildgross" HorizontalAlignment="Left" Height="300" VerticalAlignment="Top" Width="300" Source="Bilder1/city2.jpg"/>
+        <Image Name="bildgross" HorizontalAlignment="Left" Width="390" Source="Bilder1/city5.jpg" Margin="54,217,0,0" Height="263"  VerticalAlignment="Top"/>
 
-        <ItemsControl HorizontalAlignment="Right" Margin="0,40,0,0" VerticalAlignment="Top">
+        <ItemsControl HorizontalAlignment="Right" Margin="0,190,-37,0" VerticalAlignment="Top" Height="217" Width="317">
 
-            <TextBlock Text="Entfernung 30km"   HorizontalAlignment="Right" Height="45" VerticalAlignment="Top" Width="300" FontSize="20"/>
+            <TextBlock Text="Entfernung 30km"   HorizontalAlignment="Right" Height="47" VerticalAlignment="Top" Width="300" FontSize="20"/>
             <TextBlock Text="Entfernung 30km"   HorizontalAlignment="Right" Height="45" VerticalAlignment="Top" Width="300" FontSize="20"/>
             <TextBlock Text="Entfernung 30km"  HorizontalAlignment="Right" Height="45" VerticalAlignment="Top" Width="300" FontSize="20"/>
             <TextBlock Text="Entfernung 30km"  HorizontalAlignment="Right" Height="45" VerticalAlignment="Top" Width="300" FontSize="20"/>
-
-            <TextBlock Text="Ab 70Euro"  HorizontalAlignment="Right" Height="45" VerticalAlignment="Top" Width="300" FontSize="20"/>
+            <TextBlock Text="Ab 95Euro"  HorizontalAlignment="Right" Height="45" VerticalAlignment="Top" Width="300" FontSize="20"/>
         </ItemsControl>
 
 
 
-        <WrapPanel   HorizontalAlignment="Right" VerticalAlignment="Top" Width="300">
+        <WrapPanel   HorizontalAlignment="Right" Width="261" Margin="0,152,4,392">
+            <materialDesign:PackIcon Foreground="Gold" Kind="Star"  Height="25" Width="26"/>
             <materialDesign:PackIcon Foreground="Gold" Kind="Star"  Height="25" Width="26"/>
             <materialDesign:PackIcon Foreground="Gold" Kind="Star"  Height="25" Width="26"/>
             <materialDesign:PackIcon Foreground="Gold" Kind="Star"  Height="25" Width="26"/>
             <materialDesign:PackIcon Foreground="Gold" Kind="Star"  Height="25" Width="26"/>
 
         </WrapPanel>
-        <Button Content="Zurück" HorizontalAlignment="Left" Margin="637,385,0,0" Background="green" VerticalAlignment="Top" Width="75" Click="zurück_click"/>
-        <Button Content="Buchen" HorizontalAlignment="Left" Margin="753,385,0,0" Background="green" VerticalAlignment="Top" Width="81" Click="buchen_click"/>
-        <Frame x:Name="miFrame_buchen" />
+
+        <Button Content="Zurück" HorizontalAlignment="Left" Margin="603,489,0,0" Background="green" VerticalAlignment="Top" Width="85" Click="zurück_click" Height="38"/>
+        <Button Content="Buchen" HorizontalAlignment="Left" Margin="797,489,0,0" Background="green" VerticalAlignment="Top" Width="87" Click="buchen_click" Height="42"/>
+        <Label Content="Pettinarihome Campo de Fiori" HorizontalAlignment="Left" Margin="47,109,0,0" VerticalAlignment="Top" Height="64" Width="514" FontSize="30" FontWeight="Black"/>
+        <Frame x:Name="miFrame_buchen" Margin="3,-1,2,7" />
+
     </Grid>
+
 </Page>

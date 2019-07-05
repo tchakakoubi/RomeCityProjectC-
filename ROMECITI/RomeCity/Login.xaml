@@ -5,28 +5,21 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:RomeCity"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
+      d:DesignHeight="600" d:DesignWidth="1024"
       Title="Login">
 
-    <Grid Background="White">
-        <Rectangle Height="280" VerticalAlignment="Top">
-            <Rectangle.Fill>
-                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                    <GradientStop Color="#FF2281D1"/>
-                    <GradientStop Color="#FF34268A" Offset="1"/>
-                    <GradientStop Color="#FF2281D1" Offset="0.5"/>
-                </LinearGradientBrush>
-            </Rectangle.Fill>
-        </Rectangle>
-        <Image Source="Bilder1/City4.jpg" Width="100" Height="100" VerticalAlignment="Top" Margin="20"/>
-        <Rectangle Width="280" Height="240" Fill="WhiteSmoke" VerticalAlignment="Bottom" Margin="0,100">
+    <Grid Background="White" Margin="0,0,-4,-14">
+        <!--<Rectangle Height="76"  VerticalAlignment="Top" Margin="0,0,-2,0" Fill="#FF581350"/>-->
+
+        <!--<Image Source="Bilder1/City4.jpg" Width="100" Height="100" VerticalAlignment="Top" Margin="20"/>-->
+        <Rectangle Height="378" Fill="White" VerticalAlignment="Bottom" Margin="190,0,170,118">
             <Rectangle.Effect>
                 <DropShadowEffect Color="#FFBBBBBB" Direction="0" BlurRadius="15" RenderingBias="Quality" ShadowDepth="1"/>
             </Rectangle.Effect>
         </Rectangle>
-        <Grid Width="280" Height="240" VerticalAlignment="Bottom" Margin="0,100">
-            <TextBlock Text="LOGIN" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="5" Foreground="Gray" FontSize="18"/>
-            <StackPanel VerticalAlignment="Center" Margin="10">
+        <Grid Height="250" Width="400" VerticalAlignment="Bottom" Margin="340,0,370,208">
+            <TextBlock Text="LOGIN"  VerticalAlignment="Top" HorizontalAlignment="Center" Margin="100,7,174,0" Foreground="Gray" FontSize="18" RenderTransformOrigin="0.535,-0.935" Height="22" Width="126"/>
+            <StackPanel VerticalAlignment="Bottom" Margin="10,0,74,10">
                 <Label Content="Username" Foreground="Black"/>
                 <TextBox Margin="0,10" x:Name="user" FontFamily="Champagne &amp; Limousines" FontSize="18"/>
                 <Label Content="Password" Foreground="Black"/>
@@ -34,10 +27,12 @@
             </StackPanel>
         </Grid>
 
-        <Button VerticalAlignment="Bottom" Margin="0,85" Width="150" Content="Sign In"  Click="sing_In_Click" />
-        <TextBlock Text="noch nicht ein Konto?" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="50" Foreground="Gray" Cursor="Hand"/>
-        <Button Content="Click here"  HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="50" Foreground="Gray" Cursor="Hand"   />
-
+        <Button Background="Green" VerticalAlignment="Bottom" Margin="406,0,401,116" Content="Sign In" FontSize="10"  Click="sing_In_Click" Height="25" />
+        <!--<TextBlock Text="noch kein Konto?"  HorizontalAlignment="Center" VerticalAlignment="Bottom"  Foreground="Gray" Cursor="Hand" Height="20" Width="110" Margin="544,0,374,68"/>-->
+        <Button Content="Register"  Background="Green" FontSize="10"  HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,268,51" Foreground="White" Cursor="Hand" Height="27" Width="71" RenderTransformOrigin="0.108,1.31"/>
+        <Button Content="zurück"  Background="Red" FontSize="10"  HorizontalAlignment="Right" VerticalAlignment="Bottom" Click="zurueck_Click" Margin="0,0,568,47" Foreground="White" Cursor="Hand" Height="27" Width="71" RenderTransformOrigin="0.108,1.31"/>
+        <Frame x:Name="miFrame_zurueck" Margin="-1,-3,-2,-1" />
+        <TextBlock HorizontalAlignment="Left" Margin="404,4,0,0" TextWrapping="Wrap" Text="Willkommen!" Foreground="White" FontSize="25" VerticalAlignment="Top" Height="47" Width="161"/>
     </Grid>
 
 </Page>

@@ -35,31 +35,27 @@
                 <Grid.Effect>
                     <DropShadowEffect BlurRadius="20" Color="#FFEEEEEE" ShadowDepth="1"/>
                 </Grid.Effect>
-                <Image Source="Bilder1/city5.jpg" Stretch="UniformToFill"  />
-                <StackPanel Orientation="Horizontal" Margin="5" HorizontalAlignment="Right" VerticalAlignment="Bottom">
-                    <TextBlock  Text="Le Lorem Ipsum est simple Lorem Ipsum " Foreground="#FFFBFBFB"/>
 
-                    <Button x:Name="Read_More" Width="82" Height="28" Background="green" BorderBrush="{x:Null}" VerticalAlignment="Top" Click="Read_More_Click" RenderTransformOrigin="0.488,-2.286">
-                        <TextBlock Text="Mehr"></TextBlock>
-                    </Button>
-                    <materialDesign:PackIcon Foreground="Green" Kind="Star"/>
-                    <materialDesign:PackIcon Foreground="Green" Kind="Star"/>
-                    <materialDesign:PackIcon Foreground="Green" Kind="Star"/>
+                <Image Source="Bilder1/city5.jpg" Stretch="UniformToFill" Margin="8,6,6,68"  />
 
-                </StackPanel>
-                <Frame x:Name="miFrame"/>
 
+                <Button x:Name="Read_More" Height="23" Background="green"  Click="Read_More_Click" RenderTransformOrigin="0.488,-2.286" Margin="219,226,5,0" VerticalAlignment="Top">
+                    <TextBlock Text="Mehr" FontSize="10" Height="14" Width="30" />
+                </Button>
+
+
+                <Frame x:Name="miFrame" Margin="-1,-1,-2,0" />
             </Grid>
-            
+
             <Grid Name="bild2" Margin="10" Grid.Row="2" Grid.Column="1">
                 <Grid.Effect>
                     <DropShadowEffect BlurRadius="20" Color="#FFEEEEEE" ShadowDepth="1"/>
                 </Grid.Effect>
                 <Image Source="Bilder1/city1.jpg" Stretch="UniformToFill"  />
                 <StackPanel Orientation="Horizontal" Margin="5" HorizontalAlignment="Right" VerticalAlignment="Bottom">
-                    <TextBlock  Text="Le Lorem Ipsum est simple Lorem Ipsum " Foreground="#FFFBFBFB"/>
+                    <TextBlock  Text="Le Lorem Ipsum est simple Lorem Ipsum " Foreground="#FFFBFBFB" Height="94" Width="107"/>
                     <Button x:Name="foto2" Width="82" Height="28" Background="green" BorderBrush="{x:Null}" VerticalAlignment="Top" Click="foto2_Click" RenderTransformOrigin="0.488,-2.286">
-                        <TextBlock Text="Mehr"></TextBlock>
+                        <TextBlock Text="Mehr"/>
                     </Button>
                     <materialDesign:PackIcon Foreground="Green" Kind="Star"/>
                     <materialDesign:PackIcon Foreground="Green" Kind="Star"/>
@@ -67,9 +63,9 @@
                     <TextBlock  Text="25" Foreground="#FFFBFBFB"/>
                 </StackPanel>
                 <Frame x:Name="miFrame2"/>
-                
+
             </Grid>
-            
+
 
             <Grid x:Name="bild3" Margin="10" Grid.Row="2" Grid.Column="2">
                 <Grid.Effect>
@@ -201,6 +197,16 @@
                     <TextBlock  Text="25" Foreground="#FFFBFBFB"/>
                 </StackPanel>
             </Grid>
+            <TextBlock HorizontalAlignment="Left" Margin="21,202,0,0" TextWrapping="Wrap" Text="Pettinarihome Campo de Fiori" FontWeight="Black" VerticalAlignment="Top" Height="19" Width="182" Grid.Row="2"/>
+            <TextBlock HorizontalAlignment="Left" Margin="20,219,0,0" Grid.Row="2" TextWrapping="Wrap" Text="95$ pro Nacht" VerticalAlignment="Top" Height="17" Width="169"/>
+            <TextBlock HorizontalAlignment="Left" Margin="20,238,0,0" Grid.Row="2" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="17" Width="174">
+                  <materialDesign:PackIcon Foreground="Gold" Kind="Star"/>
+                  <materialDesign:PackIcon Foreground="Gold" Kind="Star"/>
+                  <materialDesign:PackIcon Foreground="Gold" Kind="Star"/>
+                  <materialDesign:PackIcon Foreground="Gold" Kind="Star"/>
+                  <materialDesign:PackIcon Foreground="Gold" Kind="Star"/>
+               
+            </TextBlock>
         </Grid>
     </ScrollViewer>
 </Page>

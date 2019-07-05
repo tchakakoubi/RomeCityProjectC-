@@ -23,20 +23,25 @@ namespace RomeCity
         public ReadMehr()
         {
             InitializeComponent();
-            bildgross.Source= new BitmapImage(new Uri("Bilder1/city5.jpg", UriKind.Relative));
+            bildgross.Source = new BitmapImage(new Uri("Bilder1/city5.jpg", UriKind.Relative));
             bildgross.Width = this.Width;
         }
 
        
         private void buchen_click(object sender, RoutedEventArgs e)
         {
+           
             miFrame_buchen.Content = new Login();
+            
         }
 
         private void zurück_click(object sender, RoutedEventArgs e)
         {
-             miFrame_buchen.Content = new hotels();
-            //miFrame_buchen.Visibility = Visibility.Hidden;
+
+            miFrame_buchen.Content = new hotels();
+            
+
+            // miFrame_buchen.Visibility = Visibility.Hidden;
         }
     }
 }

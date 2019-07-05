@@ -8,12 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("bilder1/city3.jpg")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("bilder1/city4.jpg")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("bilder1/city5.jpg")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("bilder1/city6.jpg")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("bilder1/city7.jpg")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("bilder1/city8.jpg")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("bilder1/city9.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("foto/rome18.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("foto/rome19.jpg")]
 
 

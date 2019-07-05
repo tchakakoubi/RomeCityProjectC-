@@ -23,6 +23,8 @@ namespace RomeCity
     public partial class MainWindow : Window
 
     {
+       
+
         //Inserer le Apikey pour le map
         public ApplicationIdCredentialsProvider Provider { get; set; } = new ApplicationIdCredentialsProvider("9J0Zv03MwOiYXQrfrEPO~BDnBUXv8_caoV5dsXIA3Lw~AgIl2pu-05XtU1x5ReR3-eU2yNnywn8mK3I797gljELvI7zfHxah7IR4t5QcAUwA");
 
@@ -52,7 +54,7 @@ namespace RomeCity
         void timer_Tick(object sender, EventArgs e)
         {
             ctr++;
-            if (ctr > 10)
+            if (ctr > 21)
             {
                 ctr = 1;
             }
@@ -81,7 +83,7 @@ namespace RomeCity
         }
         private void btnLast_Click(object sender, RoutedEventArgs e)
         {
-            ctr = 10;
+            ctr = 21;
             PlaySlideShow(ctr);
         }
 
@@ -90,7 +92,7 @@ namespace RomeCity
             ctr--;
             if (ctr < 1)
             {
-                ctr = 10;
+                ctr = 21;
             }
             PlaySlideShow(ctr);
         }
@@ -98,7 +100,7 @@ namespace RomeCity
         private void btnNext_Click(object sender, RoutedEventArgs e)
         {
             ctr++;
-            if (ctr > 10)
+            if (ctr > 21)
             {
                 ctr = 1;
             }
@@ -272,10 +274,26 @@ namespace RomeCity
             home.Visibility = Visibility.Hidden;
 
             h2.Visibility = Visibility.Hidden;
-
-
+            
             zimmer.Visibility = Visibility.Hidden;
             places.Visibility = Visibility.Visible;
+        }
+
+        private void ListViewItem_Aktivität(object sender, RoutedEventArgs e)
+        {
+
+            hotels h2 = new hotels();
+
+            Main.NavigationService.Navigate(h2);
+
+            home.Visibility = Visibility.Hidden;
+
+            h2.Visibility = Visibility.Hidden;
+
+            zimmer.Visibility = Visibility.Hidden;
+
+            places.Visibility = Visibility.Hidden;
+
 
         }
     }
